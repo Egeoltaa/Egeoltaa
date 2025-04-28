@@ -1,11 +1,17 @@
 ### Ege Orçun Olta
 
 🎓 **Ahi Evran Mesleki ve Teknik Anadolu Lisesi**  
-🌍 [Website](https://egeolta.link)  
-💼 [LinkedIn](https://www.linkedin.com/in/egeolta/)  
-🐦 [Twitter](https://x.com/Egeoltaa)  
-📷 [Instagram](https://www.instagram.com/egeolta/)  
+💼 **Altek Teknolojileri**  
 ⚧ **he/him**
+
+---
+
+### 🌍 Bağlantılar
+
+- **Website:** [egeolta.link](https://egeolta.link)  
+- **LinkedIn:** [https://www.linkedin.com/in/egeolta/](https://www.linkedin.com/in/egeolta/)  
+- **Twitter:** [https://x.com/Egeoltaa](https://x.com/Egeoltaa)  
+- **Instagram:** [https://www.instagram.com/egeolta/](https://www.instagram.com/egeolta/)  
 
 ---
 
