@@ -4,16 +4,12 @@
 💼 **Altek Teknolojileri**  
 ⚧ **he/him**
 
----
-
 ## 🌍 Bağlantılar
 
 - 🌐 **Website:** [egeolta.link](https://egeolta.link)  
 - 💼 **LinkedIn:** [egeolta](https://www.linkedin.com/in/egeolta/)  
 - 🐦 **Twitter:** [Egeoltaa](https://x.com/Egeoltaa)  
 - 📸 **Instagram:** [egeolta](https://www.instagram.com/egeolta/)  
-
----
 
 ## 📊 GitHub İstatistikleri
 
