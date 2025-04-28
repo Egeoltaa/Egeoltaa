@@ -9,9 +9,9 @@
 ## 🌍 Bağlantılar
 
 - 🌐 **Website:** [egeolta.link](https://egeolta.link)  
-- 💼 **LinkedIn:** [Ege Orçun Olta](https://www.linkedin.com/in/egeolta/)  
+- 💼 **LinkedIn:** [egeolta](https://www.linkedin.com/in/egeolta/)  
 - 🐦 **Twitter:** [Egeoltaa](https://x.com/Egeoltaa)  
-- 📸 **Instagram:** [Ege Olta](https://www.instagram.com/egeolta/)  
+- 📸 **Instagram:** [egeolta](https://www.instagram.com/egeolta/)  
 
 ---
 
