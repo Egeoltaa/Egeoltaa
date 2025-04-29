@@ -7,8 +7,8 @@
 ## 🌍 Bağlantılar
 
 - 🌐 **Website:** [egeolta.link](https://egeolta.link)  
-- 💼 **LinkedIn:** [egeolta](https://www.linkedin.com/in/egeolta/)  
-- 🐦 **Twitter:** [Egeoltaa](https://x.com/Egeoltaa)  
+- 🐦 **Twitter:** [@Egeoltaa](https://x.com/Egeoltaa)  
+- 💼 **LinkedIn:** [in/egeolta](https://www.linkedin.com/in/egeolta/)  
 - 📸 **Instagram:** [egeolta](https://www.instagram.com/egeolta/)  
 
 ## 📊 GitHub İstatistikleri
