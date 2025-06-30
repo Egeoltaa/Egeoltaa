@@ -1,7 +1,7 @@
 # Ege Olta
 
 🎓 **Ahi Evran Mesleki ve Teknik Anadolu Lisesi**  
-💼 **Altek Teknolojileri**  
+💼 **Yes.Tools**  
 ⚧ **he/him**
 
 ## 🌍 Bağlantılar
