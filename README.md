@@ -1,4 +1,4 @@
-# Ege Orçun Olta
+# Ege Olta
 
 🎓 **Ahi Evran Mesleki ve Teknik Anadolu Lisesi**  
 💼 **Altek Teknolojileri**  
@@ -8,8 +8,8 @@
 
 - 🌐 **Website:** [egeolta.link](https://egeolta.link)  
 - 🐦 **Twitter:** [@Egeoltaa](https://x.com/Egeoltaa)  
-- 💼 **LinkedIn:** [in/egeolta](https://www.linkedin.com/in/egeolta/)  
-- 📸 **Instagram:** [egeolta](https://www.instagram.com/egeolta/)  
+- 💼 **LinkedIn:** [in/egeolta](https://www.linkedin.com/in/egeolta)  
+- 📸 **Instagram:** [@egeolta](https://www.instagram.com/egeolta)  
 
 ## 📊 GitHub İstatistikleri
 
