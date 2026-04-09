@@ -1,26 +1,34 @@
-# Ege Olta
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Ege+Olta" alt="Ege Olta Name Header" />
+  
+  <br>
 
-🎓 **Ahi Evran Mesleki ve Teknik Anadolu Lisesi**  
-💼 **Yes.Tools**  
-⚧ **he/him**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4B5563&center=true&vCenter=true&width=500&lines=Software+Developer;Student+%40+Ahi+Evran+MTAL;Intern+%40+Yes.Tools" alt="Software Developer Title" />
 
-## 🌍 Bağlantılar
+  <br>
 
-- 🌐 **Website:** [egeolta.link](https://egeolta.link)  
-- 🐦 **Twitter:** [@Egeoltaa](https://x.com/Egeoltaa)  
-- 💼 **LinkedIn:** [in/egeolta](https://www.linkedin.com/in/egeolta)  
-- 📸 **Instagram:** [@egeolta](https://www.instagram.com/egeolta)  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Egeoltaa&label=PROFILE+VIEWS&color=1E40AF&style=flat-square" alt="Profile Views Counter" />
+    <a href="https://egeolta.link">
+      <img src="https://img.shields.io/badge/🌐_PORTFOLIO-111827?style=flat-square&logoColor=white" alt="My Portfolio - egeolta.link" />
+    </a>
+  </p>
+</div>
 
-## 📊 GitHub İstatistikleri
+<br><br>
 
-### Genel İstatistikler
-[![Egeoltaa'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Egeoltaa&show_icons=true&theme=radical)](https://github.com/Egeoltaa)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,php,mysql,postgresql,mongodb,sqlite,supabase,appwrite&theme=dark" alt="Backend and Data" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,nginx,cloudflare,vercel,git,github&theme=dark" alt="Infrastructure and DevOps" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite,md&theme=dark" alt="Frontend and Frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,cs,kotlin,npm,pnpm,regex,postman&theme=dark" alt="Development Tools" />
+</div>
 
-### En Çok Kullanılan Diller
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Egeoltaa&layout=compact&theme=radical)](https://github.com/Egeoltaa)
+<br><br>
 
-### Katkı Aktivitesi
-[![GitHub Aktiviteleri](https://github-readme-activity-graph.vercel.app/graph?username=Egeoltaa&theme=radical)](https://github.com/Egeoltaa)
-
-### Günlük Katkı (Streak)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Egeoltaa&theme=radical)](https://github.com/Egeoltaa)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Egeoltaa&hide_border=true&background=0D1117&ring=1E40AF&fire=1E40AF&stroke=1E40AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="180" alt="GitHub Streak Stats" />
+</div>
