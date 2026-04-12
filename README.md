@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4B5563&center=true&vCenter=true&width=500&lines=Software+Developer;Student+%40+Ahi+Evran+MTAL;Intern+%40+Yes.Tools" alt="Software Developer Title" />
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Egeoltaa&label=PROFILE+VIEWS&color=1E40AF&style=flat-square" alt="Profile Views Counter" />
-    <a href="https://egeolta.link">
-      <img src="https://img.shields.io/badge/🌐_PORTFOLIO-111827?style=flat-square&logoColor=white" alt="My Portfolio - egeolta.link" />
-    </a>
+    <img src="https://icon.mzrdev.com/social?variant=profile-views&username=Egeoltaa&compact=false&height=30" alt="Profile Views Counter" />&nbsp;<a href="https://github.com/Egeoltaa"><img src="https://icon.mzrdev.com/social?variant=github-followers&username=Egeoltaa&height=30" alt="GitHub Followers" /></a>&nbsp;<a href="https://egeolta.link"><img src="https://icon.mzrdev.com/badge?icon=Globe-Dark&text=Portfolio&height=30" alt="My Portfolio - egeolta.link" /></a>
   </p>
 </div>
 
@@ -34,7 +31,7 @@
   <img src="https://icon.mzrdev.com/badge?icon=Cloudflare-Dark&height=30" alt="Cloudflare" />
   <img src="https://icon.mzrdev.com/badge?icon=Vercel-Dark&height=30" alt="Vercel" />
   <img src="https://icon.mzrdev.com/badge?icon=Git&height=30" alt="Git" />
-  <img src="https://icon.mzrdev.com/badge?icon=Github-Dark&height=30" alt="GitHub" />
+  <img src="https://icon.mzrdev.com/badge?icon=GitHub-Dark&height=30" alt="GitHub" />
 
   <br>
 
@@ -55,8 +52,8 @@
   <img src="https://icon.mzrdev.com/badge?icon=AndroidStudio-Dark&height=30" alt="Android Studio" />
   <img src="https://icon.mzrdev.com/badge?icon=CS&height=30" alt="C#" />
   <img src="https://icon.mzrdev.com/badge?icon=Kotlin-Dark&height=30" alt="Kotlin" />
-  <img src="https://icon.mzrdev.com/badge?icon=Npm-Dark&height=30" alt="NPM" />
-  <img src="https://icon.mzrdev.com/badge?icon=Pnpm-Dark&height=30" alt="PNPM" />
+  <img src="https://icon.mzrdev.com/badge?icon=NPM-Dark&height=30" alt="NPM" />
+  <img src="https://icon.mzrdev.com/badge?icon=PNPM-Dark&height=30" alt="PNPM" />
   <img src="https://icon.mzrdev.com/badge?icon=Regex-Dark&height=30" alt="Regex" />
   <img src="https://icon.mzrdev.com/badge?icon=Postman&height=30" alt="Postman" />
 </div>
