@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Ege+Olta" alt="Ege Olta Name Header" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4B5563&center=true&vCenter=true&width=500&lines=Software+Developer;Student+%40+Ahi+Evran+MTAL;Intern+%40+Yes.Tools" alt="Software Developer Title" />
+  <img src="https://icon.mzrdev.com/typing?text=Ege%20Olta&font=Fira%20Code&fontWeight=600&fontSize=32&pause=1000&color=1E40AF&align=center&width=600&showCursor=false" alt="Ege Olta Name Header" />
+  <img src="https://icon.mzrdev.com/typing?lines=Software%20Developer;Student%20%40%20Ahi%20Evran%20MTAL;Intern%20%40%20Yes.Tools&font=Fira%20Code&fontWeight=600&fontSize=24&pause=1000&color=4B5563&align=center&width=500&showCursor=false" alt="Software Developer Title" />
 
   <p align="center">
     <img src="https://icon.mzrdev.com/social?variant=profile-views&username=Egeoltaa&compact=false&height=30" alt="Profile Views Counter" />&nbsp;<a href="https://github.com/Egeoltaa"><img src="https://icon.mzrdev.com/social?variant=github-followers&username=Egeoltaa&height=30" alt="GitHub Followers" /></a>&nbsp;<a href="https://egeolta.link"><img src="https://icon.mzrdev.com/badge?icon=Globe-Dark&text=Portfolio&height=30" alt="My Portfolio - egeolta.link" /></a>
