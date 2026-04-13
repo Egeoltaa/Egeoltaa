@@ -64,5 +64,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Egeoltaa&hide_border=true&background=0D1117&ring=1E40AF&fire=1E40AF&stroke=1E40AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="180" alt="GitHub Streak Stats" />
+  <img src="https://icon.mzrdev.com/stats?username=Egeoltaa&hide_border=true&background=0D1117&ring=1E40AF&fire=1E40AF&stroke=1E40AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
 </div>
