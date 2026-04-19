@@ -68,5 +68,8 @@
 </div>
 
 <div align="center">
-  <img src="https://icon.mzrdev.com/stats?username=egeolta&hide_border=true&background=0D1117&ring=1E40AF&fire=1E40AF&stroke=1E40AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
+  <p align="center">
+    <img src="https://icon.mzrdev.com/stats?username=egeolta&hide_border=true&background=0D1117&ring=1E40AF&fire=1E40AF&stroke=1E40AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
+    <img src="https://icon.mzrdev.com/snk?username=egeolta&palette=github-dark&snake_color=1E40AF&show_bar=false&show_score=false&speed=1" alt="snake game" />
+  </p>
 </div>
