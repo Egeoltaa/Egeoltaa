@@ -6,7 +6,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://icon.mzrdev.com/social?variant=profile-views&username=Egeoltaa&compact=false&height=30" alt="Profile Views Counter" />&nbsp;<a href="https://github.com/Egeoltaa"><img src="https://icon.mzrdev.com/social?variant=github-followers&username=Egeoltaa&height=30" alt="GitHub Followers" /></a>&nbsp;<a href="https://egeolta.link"><img src="https://icon.mzrdev.com/badge?icon=Globe-Dark&text=Portfolio&height=30" alt="My Portfolio - egeolta.link" /></a>
+    <img src="https://icon.mzrdev.com/social?variant=profile-views&username=egeolta&compact=false&height=30" alt="Profile Views Counter" />&nbsp;<a href="https://github.com/egeolta"><img src="https://icon.mzrdev.com/social?variant=github-followers&username=egeolta&height=30" alt="GitHub Followers" /></a>&nbsp;<a href="https://egeolta.link"><img src="https://icon.mzrdev.com/badge?icon=Globe-Dark&text=Portfolio&height=30" alt="My Portfolio - egeolta.link" /></a>
   </p>
 </div>
 
@@ -64,5 +64,5 @@
 <br>
 
 <div align="center">
-  <img src="https://icon.mzrdev.com/stats?username=Egeoltaa&hide_border=true&background=0D1117&ring=1E40AF&fire=1E40AF&stroke=1E40AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
+  <img src="https://icon.mzrdev.com/stats?username=egeolta&hide_border=true&background=0D1117&ring=1E40AF&fire=1E40AF&stroke=1E40AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
 </div>
