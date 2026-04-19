@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://icon.mzrdev.com/typing?text=Ege%20Olta&font=Fira%20Code&color=1E40AF&align=middle&height=60&showCursor=false" alt="Ege Olta Name Header" />
+  <img src="https://icon.mzrdev.com/typing?text=Ege%20Olta&color=1E40AF&align=middle&height=60&showCursor=false" alt="Ege Olta Name Header" />
   <br/>
-  <img src="https://icon.mzrdev.com/typing?lines=Software%20Developer;Student%20%40%20Ahi%20Evran%20MTAL;Intern%20%40%20Yes.Tools&font=Fira%20Code&color=4B5563&showCursor=false&align=middle&height=50" alt="Software Developer Title" />
+  <img src="https://icon.mzrdev.com/typing?lines=Software%20Developer;Student%20%40%20Ahi%20Evran%20MTAL;Intern%20%40%20Yes.Tools&color=4B5563&showCursor=false&align=middle&height=50" alt="Software Developer Title" />
 </div>
 
 <div align="center">
@@ -62,6 +62,10 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://icon.mzrdev.com/trophy?username=egeolta&noBackground=true&sponsor=true&description=false" alt="Ege's GitHub Trophies" />
+</div>
 
 <div align="center">
   <img src="https://icon.mzrdev.com/stats?username=egeolta&hide_border=true&background=0D1117&ring=1E40AF&fire=1E40AF&stroke=1E40AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
