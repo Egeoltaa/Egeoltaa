@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://icon.mzrdev.com/typing?text=Ege%20Olta&color=1E40AF&align=middle&height=60&showCursor=false" alt="Ege Olta Name Header" />
   <br/>
-  <img src="https://icon.mzrdev.com/typing?lines=Software%20Developer;Student%20%40%20Ahi%20Evran%20MTAL&color=4B5563&showCursor=false&align=middle&height=50" alt="Software Developer Title" />
+  <img src="https://icon.mzrdev.com/typing?text=Software%20Developer&color=4B5563&showCursor=false&align=middle&height=50" alt="Software Developer Title" />
 </div>
 
 <div align="center">
